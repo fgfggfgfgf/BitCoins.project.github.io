@@ -1,0 +1,95 @@
+*{
+    padding: 0%; margin: 0%;
+}
+body{
+       padding: 308px;
+        font-family: "Archivo Black", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      color: #FFFFFF;
+      line-height: 1.5;
+      font-size: 1rem;   
+      text-align: justify;
+}
+.header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+box-sizing: border-box;
+        
+}
+.header a {
+    img{
+        max-width: 93px;
+        max-height: 89px;
+    }
+}
+.hapka{
+    display: flex;
+    list-style: none;
+    margin-left: 100px;
+    
+}
+.hapka li{
+    
+    margin-left: 94px;
+    
+}
+.hapka li a{
+    color: #000000;
+    text-decoration: none;
+}
+.hapka li a:hover {
+    color: aqua;
+}
+.menu{
+    display: flex;
+    list-style:none ;
+    padding: 308px 0;
+}
+.menu button{
+margin-inline-end: 600px;
+}
+.menu button a{
+    color: #000000;
+    text-decoration: none;
+}
+.menu button a:hover{
+  color: #FFFFFF;  
+}
+
+.logo{
+    margin-left: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.osnova_wrap{
+    background: url(../Курсовая/img/курсовая111.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 308px 388px ;
+}
+.osnova{
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+.osnova_wrap p {
+    font-weight: 700; font-size: 3rem; line-height: 3.5rem;
+    
+}
+.osnova_wrap h1{
+    font-weight: 100; font-size: 1.5rem; line-height: 2rem;
+}
+.osnova_wrap button {
+    font-weight: 100; font-size: 1.5rem; line-height: 2rem;
+padding: 20px 50px;
+    background-color: #00F0FF;
+box-sizing: border-box;
+border-radius: 0;
+cursor: pointer;
+}
+footer{
+    background-color: #00F0FF;
+font-size: 1.2rem;
+padding: 1em 1em; 
+}

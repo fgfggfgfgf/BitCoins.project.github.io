@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    
+img{
+    width: 978px;
+    height: 560px;
+    max-width:978px ;
+    max-height:1920px ;
+    float: right;
+}
+}
+button{
+    float: left;
+    margin-left: 300px;
+background-color: aqua;
+padding: 30px 60px;
+list-style: none;
+border-radius: 35px;
+font-family: "Archivo Black", sans-serif;
+}
+div{
+column-count: 2;
+justify-content: space-between;
+
+}
+div button{
+    font-family: "Archivo Black", sans-serif;
+        
+        
+      color: #000000;
+      
+      font-size: 2.5rem;   
+    position: relative;
+    top: 75px;
+}
+div h1{
+    float: left;
+    padding: 0 200px;
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+p{
+    float: left;
+    img{
+        max-width: 100px;
+        max-height: 100px;
+        position: relative;
+        top: 100px;
+        left: 100px;
+    }
+    
+    
+}

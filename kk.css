@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+ul li {
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin-left: 400px;
+}
+li a{
+    text-decoration: none;
+}
+ul h1{
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin-left: 400px;
+}
+h1 a {
+text-decoration: none;
+}
